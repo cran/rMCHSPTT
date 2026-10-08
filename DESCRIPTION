@@ -1,0 +1,29 @@
+Package: rMCHSPTT
+Type: Package
+Title: Modified Chain Sampling Inspection Plan for Time-Truncated Life
+        Tests
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Harsh", "Tripathi",
+      email = "rsearchstat21@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Designing and comparing modified chain sampling inspection plan (MChSP). This package implements ChSP-1, MChSP-1, Multiple Dependent State Sampling (MDS), and Modified Chain Sampling plans (MChSP). The plans use user-supplied failure probabilities and determine the minimum sample size subject to consumer's risk constraints. Functions are provided to compare the required sample sizes of the four plans and visualize their performance. The distribution-free formulation allows the methods to be used with different lifetime distributions.
+             Luca (2018) <doi:10.1080/02664763.2017.1375084>;
+             Tripathi et al. (2021) <doi:10.32604/csse.2021.015624>;
+             Tripathi et al. (2023) <doi:10.1007/s41872-023-00215-9>;
+             Rao et al. (2025) <doi:10.1080/27684520.2025.2531810>;
+             Tripathi and Saha (2023) <doi:10.1007/s13198-023-02221-7>.
+License: GPL-3
+Encoding: UTF-8
+Config/roxygen2/version: 8.0.0
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2026-09-28 18:05:16 UTC; Admin
+Author: Harsh Tripathi [aut, cre]
+Maintainer: Harsh Tripathi <rsearchstat21@gmail.com>
+Repository: CRAN
+Date/Publication: 2026-10-08 17:30:02 UTC

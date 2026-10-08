@@ -1,0 +1,13 @@
+47b179ab2ee871140a865dd157a7c47e *DESCRIPTION
+646ceaf2ca1242802ef57ca8ac8cd309 *NAMESPACE
+e177fedff0081df3df8c31681adf183e *R/rMCHSPTT.R
+67cff5ecd4eb9251eb9973416e9cd471 *man/chsp1_asip.Rd
+ae7dd4b7c28924913f0aa1fd28f07308 *man/compare_chain_plans.Rd
+9a69f9c9fb7270a9ff3d2e45d5e85be8 *man/mchsp1_asip.Rd
+31a135d9e6af87756ff6ff963d529bbe *man/mchsp_asip.Rd
+6d1fb461a018e204cc5a27cb04adeb3f *man/mchsp_oc.Rd
+36846f67308cbbb9deec34eed9507d8a *man/mds_asip.Rd
+daff552797c0ab90900f103b77291bfd *man/plot_chain_plans.Rd
+731d0850d5165e81056a444817b3af21 *man/plot_mchsp_oc.Rd
+ae04769951760f3d337cb56ff51f6234 *tests/testthat.R
+5884b6241c82cd72db0309b15bd70f40 *tests/testthat/test-MCHSP.R
